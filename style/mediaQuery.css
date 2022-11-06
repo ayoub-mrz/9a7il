@@ -1,0 +1,151 @@
+/* ------------------------- Start style Container ------------------------- */
+.container {
+  padding: 3rem 15px;
+  margin: 0 auto;
+}
+/* Small */
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+/* Medium */
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+/* Large */
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+/* ------------------------- End style Container ------------------------- */
+/* Larger */
+@media (max-width: 1200px) {
+  .download-container {
+    width: 95%;
+  }
+  
+}
+/* Larger */
+/* Large */
+@media (max-width: 992px) {
+  .info-container {
+    flex-direction: column;
+  }
+  .info-container .info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .info-container .info :nth-child(3) p,
+  .info-container .info :nth-child(5) p {
+    border-left: 1px solid #0000005e;
+  }
+  .info-container img {
+    height: 160px;
+    width: 320px;
+    transform: unset;
+    margin-bottom: 3rem;
+  }
+  .download-container {
+    width: 80%;
+    padding: 1.2rem;
+  }
+  .info-container .info div {
+    margin-top: unset;
+    width: 50%;
+  }
+  .info-container .info h1 {
+    top: -14%;
+  }
+  .info-container .info:after,
+  .info-container .info:before {
+    width: 37%;
+  }
+}
+/* Large */
+/* Small */
+@media (max-width: 768px) {
+  header .content h1 {
+    font-size: 2.2rem;
+  }
+  header .content p {
+    font-size: 1em;
+  }
+  section.cards-container .not-found img {
+    height: 200px;
+  }
+  .download-container .textContainer > p {
+    margin: 1rem 2rem;
+  }
+}
+@media (max-width: 576px) {
+  nav {
+    padding: 0 1.6rem;
+  }
+  header .content h1 {
+    font-size: 2.5rem;
+  }
+  header .content p {
+    font-size: 0.8em;
+  }
+  header .content .input input {
+    width: 90%;
+  }
+  header .content .input .search {
+    right: 30px;
+  }
+  header .content .input .result {
+    width: calc(90% - 1px);
+}
+  header .content .input span {
+    left: 16%;
+    width: 70%;
+  }
+  section.cards-container .not-found img {
+    height: 150px;
+  }
+  section.cards-container .not-found h2 {
+    font-size: 0.8em;
+  }
+  .download-container h1 {
+    font-size: 1.5em;
+  }
+  .download-container {
+    width: 90%;
+    min-height: 60%;
+  }
+  .info-container img {
+    height: 115px;
+    width: 210px;
+  }
+  .info-container .info h1 {
+    top: -12%;
+    font-size: 1.2em;
+  }
+  .info-container .info span {
+    font-size: 0.9em;
+    white-space: nowrap;
+  }
+  .info-container .info:after,
+  .info-container .info:before {
+    width: 28%;
+  }
+}
+
+
+@media (min-width: 1200px) {
+  
+  .download-container {
+    max-width: 1150px;
+  }
+
+  .info-container img {
+    height: 250px;
+    width: 450px;
+    box-shadow: -13px 13px 15px 7px #08080881;
+}
+}

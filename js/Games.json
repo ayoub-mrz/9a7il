@@ -1,0 +1,808 @@
+[
+    { 
+        "title": "SpongeBob SquarePants",
+        "url": "",
+        "categorie": "adventure",
+        "version": "not available",
+        "size": "8.65 GB",
+        "core": "64Bit",
+        "downloads": "23657"
+    },
+    { 
+        "title": "The Medium",
+        "url": "",
+        "categorie": "adventure",
+        "version": "not available",
+        "size": "37.30 GB",
+        "core": "64Bit",
+        "downloads": "65247"
+    },
+    { 
+        "title": "Cyanide & Happiness Freakpocalypse",
+        "url": "",
+        "categorie": "adventure",
+        "version": "not available",
+        "size": "1.05 GB",
+        "core": "32 & 64 Bit",
+        "downloads": "52489"
+    },
+    { 
+        "title": "The Eternal Cylinder",
+        "url": "",
+        "categorie": "adventure",
+        "version": "not available",
+        "size": "6.78 GB",
+        "core": "32 & 64 Bit",
+        "downloads": "85924"
+    },
+    { 
+        "title": "Maquette",
+        "url": "",
+        "categorie": "adventure",
+        "version": "not available",
+        "size": "2.6 GB",
+        "core": "64Bit",
+        "downloads": "75861"
+    },
+    { 
+        "title": "Watch Dogs",
+        "url": "",
+        "categorie": "adventure",
+        "version": "not available",
+        "size": "2.65 GB",
+        "core": "64Bit",
+        "downloads": "64852"
+    },
+    { 
+        "title": "Minecraft",
+        "url": "",
+        "categorie": "adventure",
+        "version": "not available",
+        "size": "386.85 MB",
+        "core": "32 & 64 Bit",
+        "downloads": "125694"
+    },
+    { 
+        "title": "Pascal’s Wager Definitive Edition",
+        "url": "",
+        "categorie": "adventure",
+        "version": "not available",
+        "size": "8.88 GB",
+        "core": "64 Bit",
+        "downloads": "65184"
+    },
+    { 
+        "title": "It Takes Two",
+        "url": "",
+        "categorie": "adventure",
+        "version": "not available",
+        "size": "28.45",
+        "core": "64Bit",
+        "downloads": "68954"
+    },
+    { 
+        "title": "Arkham Horror Mother’s Embrace",
+        "url": "",
+        "categorie": "adventure",
+        "version": "not available",
+        "size": "1.25 GB",
+        "core": "64Bit",
+        "downloads": ""
+    },
+    { 
+        "title": "Watch Dogs 2",
+        "url": "",
+        "categorie": "adventure",
+        "version": "not available",
+        "size": "6.25 GB",
+        "core": "64Bit",
+        "downloads": "65842"
+    },
+    { 
+        "title": "Bully",
+        "url": "",
+        "categorie": "adventure",
+        "version": "not available",
+        "size": "4.7 GB",
+        "core": "32 & 64 Bit",
+        "downloads": "45821"
+    },
+    { 
+        "title": "A Hat in Time",
+        "url": "",
+        "categorie": "adventure",
+        "version": "not available",
+        "size": "8 GB",
+        "core": "64Bit",
+        "downloads": "367"
+    },
+    { 
+        "title": "PixARK",
+        "url": "",
+        "categorie": "adventure",
+        "version": "not available",
+        "size": "15 GB",
+        "core": "64Bit",
+        "downloads": "10248"
+    },
+    { 
+        "title": "Hollow knight",
+        "url": "",
+        "categorie": "adventure",
+        "version": "not available",
+        "size": "1 GB",
+        "core": "64Bit",
+        "downloads": "8954"
+    },
+    { 
+        "title": "Far Cry 6",
+        "url": "",
+        "categorie": "action",
+        "version": "not available",
+        "size": "60 GB",
+        "core": "64Bit",
+        "downloads": "5981"
+    },
+    { 
+        "title": "Kao the Kangaroo",
+        "url": "",
+        "categorie": "action",
+        "version": "not available",
+        "size": "9 GB",
+        "core": "64Bit",
+        "downloads": "355"
+    },
+    { 
+        "title": "ELEX II",
+        "url": "",
+        "categorie": "action",
+        "version": "not available",
+        "size": "45 GB ",
+        "core": "64Bit",
+        "downloads": "864"
+    },
+    { 
+        "title": "Sifu",
+        "url": "",
+        "categorie": "action",
+        "version": "not available",
+        "size": "22 GB",
+        "core": "64Bit",
+        "downloads": "12547"
+    },
+    { 
+        "title": "My Beautiful Paper Smile",
+        "url": "",
+        "categorie": "action",
+        "version": "not available",
+        "size": "2 GB",
+        "core": "64Bit",
+        "downloads": "65"
+    },
+    { 
+        "title": "Demon Slayer",
+        "url": "",
+        "categorie": "action",
+        "version": "not available",
+        "size": "25 GB",
+        "core": "64Bit",
+        "downloads": ""
+    },
+    { 
+        "title": "Alan Wake Remastered",
+        "url": "",
+        "categorie": "action",
+        "version": "not available",
+        "size": "8 GB",
+        "core": "64Bit",
+        "downloads": "548"
+    },
+    { 
+        "title": "Super Monkey Ball Banana Mania",
+        "url": "",
+        "categorie": "action",
+        "version": "not available",
+        "size": "4 GB",
+        "core": "64Bit",
+        "downloads": "356"
+    },
+    { 
+        "title": "Kena Bridge of Spirits",
+        "url": "",
+        "categorie": "action",
+        "version": "not available",
+        "size": "25 GB",
+        "core": "64Bit",
+        "downloads": "6842"
+    },
+    { 
+        "title": "Aliens Fireteam Elite",
+        "url": "",
+        "categorie": "action",
+        "version": "not available",
+        "size": "30 GB",
+        "core": "64Bit",
+        "downloads": "22"
+    },
+    { 
+        "title": "Feed and Grow Fish",
+        "url": "",
+        "categorie": "action",
+        "version": "not available",
+        "size": "2 GB",
+        "core": "64Bit",
+        "downloads": "94"
+    },
+    { 
+        "title": "Ben 10",
+        "url": "",
+        "categorie": "action",
+        "version": "not available",
+        "size": "3 GB",
+        "core": "64Bit",
+        "downloads": "3597"
+    },
+    { 
+        "title": "BIGFOOT",
+        "url": "",
+        "categorie": "action",
+        "version": "not available",
+        "size": "6 GB",
+        "core": "64Bit",
+        "downloads": "12"
+    },
+    { 
+        "title": "Rust",
+        "url": "",
+        "categorie": "action",
+        "version": "not available",
+        "size": "20 GB",
+        "core": "64Bit",
+        "downloads": "2549"
+    },
+    { 
+        "title": "Desert Skies",
+        "url": "",
+        "categorie": "action",
+        "version": "not available",
+        "size": "500 MB",
+        "core": "64Bit",
+        "downloads": "4658"
+    },
+    { 
+        "title": "Poppy Playtime",
+        "url": "",
+        "categorie": "horror",
+        "version": "not available",
+        "size": "10 GB",
+        "core": "64Bit",
+        "downloads": "658"
+    },
+    { 
+        "title": "Within Skerry",
+        "url": "",
+        "categorie": "horror",
+        "version": "not available",
+        "size": "6 Gb",
+        "core": "64Bit",
+        "downloads": "66"
+    },
+    { 
+        "title": "The Baby In Yellow",
+        "url": "",
+        "categorie": "horror",
+        "version": "not available",
+        "size": "not available",
+        "core": "64Bit",
+        "downloads": "122"
+    },
+    { 
+        "title": "Granny Chapter Two",
+        "url": "",
+        "categorie": "horror",
+        "version": "not available",
+        "size": "870 MB",
+        "core": "64Bit",
+        "downloads": "698"
+    },
+    { 
+        "title": "Five Nights at Freddy’s 2",
+        "url": "",
+        "categorie": "horror",
+        "version": "not available",
+        "size": "870MB",
+        "core": "64Bit",
+        "downloads": "357"
+    },
+    { 
+        "title": "Five Nights at Freddy’s 3",
+        "url": "",
+        "categorie": "horror",
+        "version": "not available",
+        "size": "250 MB",
+        "core": "64Bit",
+        "downloads": "561"
+    },
+    { 
+        "title": "Lunch Lady",
+        "url": "",
+        "categorie": "horror",
+        "version": "not available",
+        "size": "5 GB",
+        "core": "64Bit",
+        "downloads": "26"
+    },
+    { 
+        "title": "Pacify",
+        "url": "",
+        "categorie": "horror",
+        "version": "not available",
+        "size": "5 GB",
+        "core": "64Bit",
+        "downloads": "7"
+    },
+    { 
+        "title": "Visage",
+        "url": "",
+        "categorie": "horror",
+        "version": "3.04",
+        "size": "10 GB",
+        "core": "64Bit",
+        "downloads": "594"
+    },
+    { 
+        "title": "Vampyr",
+        "url": "",
+        "categorie": "horror",
+        "version": "not available",
+        "size": "20 GB",
+        "core": "64Bit",
+        "downloads": "128"
+    },
+    { 
+        "title": "Resident Evil 7 Biohazard",
+        "url": "",
+        "categorie": "horror",
+        "version": "not available",
+        "size": "24 GB",
+        "core": "64Bit",
+        "downloads": "5439"
+    },
+    { 
+        "title": "Five Nights at Freddy’s",
+        "url": "",
+        "categorie": "horror",
+        "version": "not available",
+        "size": "250 MB",
+        "core": "64Bit",
+        "downloads": "4568"
+    },
+    { 
+        "title": "Summer of ’58",
+        "url": "",
+        "categorie": "horror",
+        "version": "not available",
+        "size": "12 GB",
+        "core": "64Bit",
+        "downloads": "571"
+    },
+    { 
+        "title": "Granny",
+        "url": "",
+        "categorie": "horror",
+        "version": "not available",
+        "size": "1400 MB",
+        "core": "64Bit",
+        "downloads": "65942"
+    },
+    { 
+        "title": "Resident Evil 2",
+        "url": "",
+        "categorie": "horror",
+        "version": "not available",
+        "size": "26 GB",
+        "core": "64Bit",
+        "downloads": "32648"
+    },
+    { 
+        "title": "GENSHIN IMPACT",
+        "url": "",
+        "categorie": "anime",
+        "version": "not available",
+        "size": "20 GB",
+        "core": "64Bit",
+        "downloads": "4523"
+    },{ 
+        "title": "FINAL FANTASY XIV",
+        "url": "",
+        "categorie": "anime",
+        "version": "not available",
+        "size": "80 GB",
+        "core": "64Bit",
+        "downloads": "6957"
+    },{ 
+        "title": "BATTLE CHEF BRIGADE",
+        "url": "",
+        "categorie": "anime",
+        "version": "not available",
+        "size": "2026 MB",
+        "core": "64Bit",
+        "downloads": "85411"
+    },{ 
+        "title": "MAPLESTORY 2",
+        "url": "",
+        "categorie": "anime",
+        "version": "not available",
+        "size": "8 GB",
+        "core": "64Bit",
+        "downloads": "265324"
+    },{ 
+        "title": "DRAGON QUEST XI",
+        "url": "",
+        "categorie": "anime",
+        "version": "not available",
+        "size": "40 GB",
+        "core": "64Bit",
+        "downloads": "4582"
+    },
+    { 
+        "title": "Among Us",
+        "url": "",
+        "categorie": "classics",
+        "version": "2022.5.1",
+        "size": "250 MB",
+        "core": "32 & 64Bit",
+        "downloads": "45823"
+    },
+    { 
+        "title": "Healing Spree",
+        "url": "",
+        "categorie": "classics",
+        "version": "not available",
+        "size": "3 GB",
+        "core": "64Bit",
+        "downloads": "2456"
+    },
+    { 
+        "title": "Size Matters",
+        "url": "",
+        "categorie": "classics",
+        "version": "not available",
+        "size": "4 GB",
+        "core": "64Bit",
+        "downloads": "6458"
+    },
+    { 
+        "title": "Switchball",
+        "url": "",
+        "categorie": "classics",
+        "version": "not available",
+        "size": "3 GB",
+        "core": "64Bit",
+        "downloads": "458"
+    },
+    { 
+        "title": "The Game of Life 2 Age of Giants",
+        "url": "",
+        "categorie": "classics",
+        "version": "not available",
+        "size": "50 MB",
+        "core": "64Bit",
+        "downloads": "9584"
+    },
+    { 
+        "title": "Call of Duty Black Ops",
+        "url": "",
+        "categorie": "fps",
+        "version": "not available",
+        "size": "12 GB",
+        "core": "64Bit",
+        "downloads": "6582"
+    },
+    { 
+        "title": "Call of Duty Black Ops 2",
+        "url": "",
+        "categorie": "fps",
+        "version": "not available",
+        "size": "30 GB",
+        "core": "64Bit",
+        "downloads": "65842"
+    },
+    { 
+        "title": "Call of Duty Black Ops 3",
+        "url": "",
+        "categorie": "fps",
+        "version": "not available",
+        "size": "111 GB",
+        "core": "64Bit",
+        "downloads": "85642"
+    },
+    { 
+        "title": "Call Of Duty",
+        "url": "",
+        "categorie": "fps",
+        "version": "not available",
+        "size": "1.4 GB",
+        "core": "64Bit",
+        "downloads": "695847"
+    },
+    { 
+        "title": "Call of Duty 4 Modern Warfare",
+        "url": "",
+        "categorie": "fps",
+        "version": "not available",
+        "size": "10.7 GB",
+        "core": "64Bit",
+        "downloads": "58641"
+    },
+    { 
+        "title": "Grand Theft Auto 4",
+        "url": "",
+        "categorie": "open world",
+        "version": "not available",
+        "size": "22 GB",
+        "core": "64Bit",
+        "downloads": "35642"
+    },
+    { 
+        "title": "Grand Theft Auto Vice City",
+        "url": "",
+        "categorie": "open world",
+        "version": "not available",
+        "size": "1 GB",
+        "core": "64Bit",
+        "downloads": "958456"
+    },
+    { 
+        "title": "Assassin’s Creed Valhalla",
+        "url": "",
+        "categorie": "open world",
+        "version": "not available",
+        "size": "55 GB",
+        "core": "64Bit",
+        "downloads": "65742"
+    },
+    { 
+        "title": "GTA San Andreas",
+        "url": "",
+        "categorie": "open world",
+        "version": "not available",
+        "size": "5 GB",
+        "core": "64Bit",
+        "downloads": "48562"
+    },
+    { 
+        "title": "Grand Theft Auto V",
+        "url": "",
+        "categorie": "open world",
+        "version": "not available",
+        "size": "72 GB",
+        "core": "64Bit",
+        "downloads": "485624"
+    },
+    { 
+        "title": "Forza Horizon 2",
+        "url": "",
+        "categorie": "racing",
+        "version": "not available",
+        "size": "6 GB",
+        "core": "64Bit",
+        "downloads": "45832"
+    },
+    { 
+        "title": "Driver San Francisco",
+        "url": "",
+        "categorie": "racing",
+        "version": "not available",
+        "size": "7 GB",
+        "core": "64Bit",
+        "downloads": "65234"
+    },
+    { 
+        "title": "MotoGP 22",
+        "url": "",
+        "categorie": "racing",
+        "version": "not available",
+        "size": "30 GB",
+        "core": "64Bit",
+        "downloads": "64852"
+    },
+    { 
+        "title": "Hot Wheels Unleashed",
+        "url": "",
+        "categorie": "racing",
+        "version": "not available",
+        "size": "22 GB",
+        "core": "64Bit",
+        "downloads": "65892"
+    },
+    { 
+        "title": "Need For Speed Hot Pursuit",
+        "url": "",
+        "categorie": "racing",
+        "version": "not available",
+        "size": "8 GB",
+        "core": "64Bit",
+        "downloads": "65823"
+    },
+    { 
+        "title": "Big Farm Story",
+        "url": "",
+        "categorie": "rpg",
+        "version": "not available",
+        "size": "1 GB",
+        "core": "64Bit",
+        "downloads": "54587"
+    },
+    { 
+        "title": "Kingdom Builders",
+        "url": "",
+        "categorie": "rpg",
+        "version": "not available",
+        "size": "4 GB",
+        "core": "64Bit",
+        "downloads": "36524"
+    },
+    { 
+        "title": "SCARLET NEXUS",
+        "url": "",
+        "categorie": "rpg",
+        "version": "not available",
+        "size": "50 GB",
+        "core": "64Bit",
+        "downloads": "54812"
+    },
+    { 
+        "title": "BIOMUTANT",
+        "url": "",
+        "categorie": "rpg",
+        "version": "not available",
+        "size": "25 GB",
+        "core": "64Bit",
+        "downloads": "56241"
+    },
+    { 
+        "title": "Baldur’s Gate 3",
+        "url": "",
+        "categorie": "rpg",
+        "version": "not available",
+        "size": "150 GB",
+        "core": "64Bit",
+        "downloads": "6523"
+    },
+    { 
+        "title": "Bakery Simulator",
+        "url": "",
+        "categorie": "simulation",
+        "version": "not available",
+        "size": "13 GB",
+        "core": "64Bit",
+        "downloads": "2356"
+    },
+    { 
+        "title": "Animal Shelter",
+        "url": "",
+        "categorie": "simulation",
+        "version": "not available",
+        "size": "6 GB",
+        "core": "64Bit",
+        "downloads": "53642"
+    },
+    { 
+        "title": "Road Maintenance Simulator",
+        "url": "",
+        "categorie": "simulation",
+        "version": "not available",
+        "size": "3.5 GB",
+        "core": "64Bit",
+        "downloads": "5486"
+    },
+    { 
+        "title": "Workshop Simulator",
+        "url": "",
+        "categorie": "simulation",
+        "version": "not available",
+        "size": "12 GB",
+        "core": "64Bit",
+        "downloads": "65924"
+    },
+    { 
+        "title": "Internet Cafe Simulator 2",
+        "url": "",
+        "categorie": "simulation",
+        "version": "not available",
+        "size": "7 GB",
+        "core": "64Bit",
+        "downloads": "102379"
+    },
+    { 
+        "title": "Neighbours back From Hell",
+        "url": "",
+        "categorie": "strategy",
+        "version": "not available",
+        "size": "4 GB",
+        "core": "64Bit",
+        "downloads": "63541"
+    },
+    { 
+        "title": "Bloons TD 6",
+        "url": "",
+        "categorie": "strategy",
+        "version": "not available",
+        "size": "2 GB",
+        "core": "64Bit",
+        "downloads": "54657"
+    },
+    { 
+        "title": "Sid Meier’s Civilization VI",
+        "url": "",
+        "categorie": "strategy",
+        "version": "not available",
+        "size": "12 GB",
+        "core": "64Bit",
+        "downloads": "23651"
+    },
+    { 
+        "title": "Frozenheim",
+        "url": "",
+        "categorie": "strategy",
+        "version": "not available",
+        "size": "5 GB",
+        "core": "64Bit",
+        "downloads": "6534"
+    },
+    { 
+        "title": "Siege Survival Gloria Victis",
+        "url": "",
+        "categorie": "strategy",
+        "version": "not available",
+        "size": "10 GB",
+        "core": "64Bit",
+        "downloads": "652"
+    },
+    { 
+        "title": "Football Manager 2021",
+        "url": "",
+        "categorie": "sports",
+        "version": "not available",
+        "size": "7 GB",
+        "core": "64Bit",
+        "downloads": "65248"
+    },
+    { 
+        "title": "The Ramp",
+        "url": "",
+        "categorie": "sports",
+        "version": "not available",
+        "size": "900 MB",
+        "core": "64Bit",
+        "downloads": "4586"
+    },
+    { 
+        "title": "Descenders",
+        "url": "",
+        "categorie": "sports",
+        "version": "not available",
+        "size": "9 GB",
+        "core": "64Bit",
+        "downloads": "56824"
+    },
+    { 
+        "title": "MotoGP 21",
+        "url": "",
+        "categorie": "sports",
+        "version": "not available",
+        "size": "22 GB",
+        "core": "64Bit",
+        "downloads": "9102"
+    },
+    { 
+        "title": "FIFA 18",
+        "url": "",
+        "categorie": "sports",
+        "version": "not available",
+        "size": "50 GB",
+        "core": "64Bit",
+        "downloads": "65842"
+    }
+]
